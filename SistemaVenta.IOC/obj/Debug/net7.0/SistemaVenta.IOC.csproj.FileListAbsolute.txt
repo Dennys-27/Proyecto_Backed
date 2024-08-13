@@ -1,0 +1,46 @@
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaV.CF7CC950.Up2Date
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\DWA LARAVEL\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll

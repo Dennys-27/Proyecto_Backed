@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.api\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A80EA0-9AE2-4947-984E-6BA105E89864}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A80EA0-9AE2-4947-984E-6BA105E89864}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.bll\\servicios\\contrato\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\contrato\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.bll\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041E11C1-240F-4DDE-A124-E4AF28EB55D9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6492702-81F1-4F44-993F-82741BF40581}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6492702-81F1-4F44-993F-82741BF40581}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6492702-81F1-4F44-993F-82741BF40581}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6492702-81F1-4F44-993F-82741BF40581}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C740C-33E2-4936-9A72-4919E3656B97}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C740C-33E2-4936-9A72-4919E3656B97}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\denni\\onedrive\\documentos\\dwa\\dwa laravel\\apisistemaventa\\sistemaventa.bll\\servicios\\contrato\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D6D6A-7256-4094-9172-20671F7585CC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\contrato\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbventaContext.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:03:07.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:21:22.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\CategoriaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:41:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.DTO\\ProductoDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\ProductoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:41:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:46:40.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Utilidad\\Response.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.API\\Utilidad\\Response.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Utilidad\\Response.cs",
+              "RelativeToolTip": "SistemaVenta.API\\Utilidad\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:47:48.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\CategoriaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\CategoriaService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:47:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\Contrato\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\ICategoriaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\Contrato\\ICategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:48:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Model\\Producto.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
+              "RelativeToolTip": "SistemaVenta.Model\\Producto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:45:23.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
+              "RelativeToolTip": "SistemaVenta.Model\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:41:31.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.API\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "SistemaVenta.API\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:45:12.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.API\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.API\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaVenta.API\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:39:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:41:26.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\denni\\OneDrive\\Documentos\\DWA\\DWA LARAVEL\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:47:37.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
